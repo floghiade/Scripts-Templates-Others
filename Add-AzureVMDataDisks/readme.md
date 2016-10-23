@@ -1,0 +1,1 @@
+https://www.florinloghiade.ro/2016/01/powershell-scripts-to-add-remove-data-disks-on-azure-vms/

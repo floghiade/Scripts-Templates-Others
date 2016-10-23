@@ -1,0 +1,1 @@
+https://www.florinloghiade.ro/2016/09/arm-template-creating-nginx-webfarm-with-custom-script-extension/

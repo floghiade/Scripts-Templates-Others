@@ -1,0 +1,1 @@
+https://www.florinloghiade.ro/2016/03/arm-templates-for-creating-custom-image-vms-in-azure/

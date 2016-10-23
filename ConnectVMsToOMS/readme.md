@@ -1,0 +1,1 @@
+https://www.florinloghiade.ro/2016/10/enrolling-azure-vms-in-operations-management-suite/

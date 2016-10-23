@@ -1,0 +1,1 @@
+https://www.florinloghiade.ro/2015/12/deploy-multiple-azure-vms-in-a-load-balanced-set/
