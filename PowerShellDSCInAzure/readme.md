@@ -1,0 +1,1 @@
+https://www.florinloghiade.ro/2016/04/using-powershell-dsc-in-azure/

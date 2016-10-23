@@ -1,0 +1,1 @@
+﻿New-AzureRmRoleDefinition -InputFile G:\automationReader.json

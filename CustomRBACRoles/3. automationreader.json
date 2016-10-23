@@ -1,0 +1,28 @@
+{
+    "Name":  "Automation Reader",
+    "IsCustom":  true,
+    "Description":  "Role that grants a user read access to the Automations Account resources",
+    "Actions":  [
+                    "Microsoft.Automation/automationAccounts/read",
+                    "Microsoft.Automation/automationAccounts/jobs/read",
+                    "Microsoft.Automation/automationAccounts/jobs/streams/read",
+                    "Microsoft.Automation/automationAccounts/runbooks/read",
+                    "Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups/read",
+                    "Microsoft.Automation/automationAccounts/jobSchedules/read",
+                    "Microsoft.Automation/automationAccounts/connectionTypes/read",     
+                    "Microsoft.Automation/automationAccounts/modules/read",                  
+                    "Microsoft.Automation/automationAccounts/schedules/read",          
+                    "Microsoft.Automation/automationAccounts/runbooks/draft/read",
+                    "Microsoft.Automation/automationAccounts/runbooks/draft/testJob/read",   
+                    "Microsoft.Automation/automationAccounts/webhooks/read"   
+                ],
+    "NotActions":  [
+
+                   ],
+    "AssignableScopes":  [
+                            "/subscriptions/6357a48d-3ae9-463e-9b9e-5de6997c8d48/",
+                            "/subscriptions/28bbf7b3-f036-482f-b909-4f9eb06048ab/",
+                            "/subscriptions/22318efa-ef99-45e3-b52f-280e3389c9b3/"
+                             
+                         ]
+}
